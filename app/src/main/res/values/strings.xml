@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_first">第一页</string>
+    <string name="label_second">第二页</string>
+    <string name="label_thrid">第三页</string>
+</resources>
